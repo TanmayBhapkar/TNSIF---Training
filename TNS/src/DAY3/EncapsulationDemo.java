@@ -6,7 +6,7 @@ public class EncapsulationDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		OopsConceptDemo obj=new OopsConceptDemo();
+		Oop obj=new Oop();
 		
 		obj.setName("Shubham");
 		obj.setAge(23);

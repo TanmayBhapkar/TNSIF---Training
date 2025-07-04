@@ -1,5 +1,7 @@
 package DAY3;
 
+import java.util.Scanner;
+
 public class PersonDemo {
 
 	public static void main(String[] args) {
@@ -44,7 +46,7 @@ public class PersonDemo {
 		System.out.println(person);
 		
 		System.out.println("After creating tax object ");
-		TaxCalculation calc=new TaxCalculation();
+		TaxCalculate calc=new TaxCalculate();
 		calc.calculateTax(person);
 		System.out.println("After Calculation of tax :");
 		

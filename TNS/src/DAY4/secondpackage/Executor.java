@@ -1,6 +1,6 @@
 package DAY4.secondpackage;
 
-import Day4.firstpackage.Base;
+import DAY4.firstpackage.Base;
 
 public class Executor {
 
@@ -11,7 +11,7 @@ public class Executor {
 		
 		//accessing different package class
 		
-		Base b1 = new Base();
+        Base	 b1=new Base();
 		
 		//private, default , protected and public 
 		
