@@ -1,7 +1,7 @@
 package DAY8.MarkerDemo;
 
-public class StudentDemo {
 
+public class StudentDemo {
 
 	public static void main(String[] args) {
 	
@@ -11,3 +11,4 @@ public class StudentDemo {
 	}
 
 }
+
